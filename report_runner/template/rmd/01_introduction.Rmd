@@ -8,34 +8,6 @@ ABOUT PACTA TEXT
 
 Text about this report
 
-```{r echo=FALSE}
-emerging_caption <- "List of ETFs available for Emerging markets. For each of these ETFs, there is a PACTA report available, furthermore, there is a report that aggregates the portfolios of this set of ETFs."
-```
-
-```{r echo=FALSE, fig.cap=emerging_caption, fig.align='center', out.width='100%'}
-knitr::include_graphics("img/market_reports_emerging.png")
-```
-
-```{r echo=FALSE}
-developed_caption <- "List of ETFs available for developed markets. For each of these ETFs, there is a PACTA report available, furthermore, there is a report that aggregates the portfolios of this set of ETFs."
-```
-
-```{r echo=FALSE, fig.cap=developed_caption, fig.align='center', out.width='100%'}
-knitr::include_graphics("img/market_reports_developed.png")
-```
-
-TEXT
-
-```{r echo=FALSE}
-classification_caption <- "MSCI Market Classification Framework for Emerging and Developed Markets"
-```
-
-```{r echo=FALSE, fig.cap=classification_caption, fig.align='center', out.width='100%'}
-knitr::include_graphics("img/market_reports_classification_framework.png")
-```
-
-TEXT
-
 TEXT
 
 TEXT
@@ -100,34 +72,9 @@ TEXT
 
 TEXT
 
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
-
 ## Practical Tips To Get the Most Out of Your Report
 
 TEXT
 
 TEXT
 
-TEXT
-
-TEXT
-
-TEXT
-
-TEXT
