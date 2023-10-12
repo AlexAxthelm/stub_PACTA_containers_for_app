@@ -1,0 +1,133 @@
+# Introduction
+
+## About PACTA
+
+ABOUT PACTA TEXT
+
+## About This Report
+
+Text about this report
+
+```{r echo=FALSE}
+emerging_caption <- "List of ETFs available for Emerging markets. For each of these ETFs, there is a PACTA report available, furthermore, there is a report that aggregates the portfolios of this set of ETFs."
+```
+
+```{r echo=FALSE, fig.cap=emerging_caption, fig.align='center', out.width='100%'}
+knitr::include_graphics("img/market_reports_emerging.png")
+```
+
+```{r echo=FALSE}
+developed_caption <- "List of ETFs available for developed markets. For each of these ETFs, there is a PACTA report available, furthermore, there is a report that aggregates the portfolios of this set of ETFs."
+```
+
+```{r echo=FALSE, fig.cap=developed_caption, fig.align='center', out.width='100%'}
+knitr::include_graphics("img/market_reports_developed.png")
+```
+
+TEXT
+
+```{r echo=FALSE}
+classification_caption <- "MSCI Market Classification Framework for Emerging and Developed Markets"
+```
+
+```{r echo=FALSE, fig.cap=classification_caption, fig.align='center', out.width='100%'}
+knitr::include_graphics("img/market_reports_classification_framework.png")
+```
+
+TEXT
+
+TEXT
+
+TEXT
+ 
+## Economic Sectors Covered in PACTA and Their Relevance for Limiting Climate Change
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+```{r echo=FALSE, fig.cap='PACTA Sectors', fig.align='center', out.width='100%'}
+knitr::include_graphics("img/pacta_sectors.svg")
+```
+*Figure 1: PACTA Sectors for listed equity and corporate bonds. Supply chain segments with the largest contribution to climate change are with a blue background.*
+
+TEXT
+
+TEXT
+
+TEXT
+
+## The PACTA Methodology at a Glance 
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+The following table provides an overview of key components and principles underlying the PACTA methodology.
+
+|  |  |
+|:-|----|
+| Physical asset-based company level data (ABCD)  | The analysis is currently based on data covering 52,000+ companies and 230,000+ energy-related physical assets from third-party data providers. This alleviates the necessity to rely on companies’ self-reported data that is published in a non-standardized manner and often does not account for scope 2 and 3 emissions.  |
+| Forward-Looking  | PACTA provides a five-year forward-looking analysis of the production plans financed by a portfolio that are compared to climate scenarios. |
+| Sector-specific approach  | The outputs of the analysis are metrics and indicators at sector and technology-level that allow for a detailed evaluation of a portfolio’s alignment, rather than one aggregated indicator at portfolio level.  |
+| Allocating macroeconomic goals to microeconomic actors  | The PACTA analysis uses a market-share approach to allocate macroeconomic climate targets to companies in sectors where low-carbon technologies are available thus, all market-level trends and targets are allocated to companies based on their current market share in the sector or technology for low- and high-carbon technologies, respectively.  |
+
+In the analysis provided for each sector, the user has the option to select from two different portfolio attribution methodologies - the Portfolio Weight Approach (PA) and the Ownership Weight Approach (OA). These methods are used to attribute the physical assets of a company to the financial instrument or portfolio.
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+### PACTA core metrics
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+## Practical Tips To Get the Most Out of Your Report
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT

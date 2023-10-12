@@ -1,0 +1,182 @@
+# Climate Scenario Analysis
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+## Exposure to PACTA Sectors
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+### Current exposure
+
+TEXT
+
+<div id="techexposure_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_For each sector, there are two views that can be seen in this chart. The first show the technology mix as a % of assets under management. This represents the percentage of the portfolio in these sectors and technologies. The second option shows the technology breakdown of the sector. The green line underneath the bars represents the portfolio of the sector in low carbon technologies according to the scenario. The second bar shows the benchmark which can be changed by clicking on the benchmark text. An option also exists to subset the results by an alternative equity market for the equity portfolio._</p>
+</div>
+</details>
+
+
+
+### Geographic exposure
+
+TEXT
+
+<div id="map_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The color shading shows the production of a specific technology in the respective country. This is possible as the asset-level data for all companies in the portfolio includes information about the geographical location of each asset. The production capacities in each country are aggregated by weighting the contributions of each company by their weight in the portfolio._</p>
+</div>
+</details>
+
+
+
+## Alignment With Climate Change Scenarios
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+
+### Alignment of production trajectories
+
+TEXT
+
+TEXT
+
+<div id="trajectory_alignment_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The solid line indicates the development of the production in the selected technology for the next 5 years. The colored areas indicate the required change in production according to different climate scenarios. The dashed area represents the chosen benchmark scaled to the starting point of the portfolio. The benchmark, allocation method, and equity market can be changed by clicking on the boldened values._
+</p>
+</div>
+</details>
+
+
+
+### Future technology breakdown
+
+TEXT
+
+TEXT
+
+
+<div id="techexposure_future_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_This chart shows the split between technologies in each sector expected within the portfolio in five years. It also shows what this split if the companies in the portfolio were to align with the scenario. Additionally, it shows this information for the benchmark and for the benchmark if the benchmark portfolio were also to align with the scenario. Please bear in mind that PACTA assumes a static balance sheet for an investor. As such, this ensures that any difference in the technology mix when compared to the current exposure chart, is solely a result of the production plans of the companies the investor is currently financing and not a result of any change in the portfolio composition._
+
+_For the sectors with low carbon alternatives, one can see how the exposure to low and high-carbon technologies compares. For the fossil fuel sector, production has been converted to GJ to allow comparison between the three fuel types. The comparison between the fuels is provided for reference._
+</p>
+</div>
+</details>
+
+
+
+## Alignment of Emission Intensities
+
+TEXT
+
+<div id="emissions_time_line_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The chart uses the current emissions intensity of companies within the portfolio as a starting point and shows how this expected to develop over the next five years based on the plans of the company and what would be expected under the scenario._</p>
+</div>
+</details>
+
+
+
+## Company-Level Results
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+### Company low- and high-carbon split
+
+TEXT
+
+TEXT
+
+
+<div id="company_bubble_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The visualization combines current technology mix (x-axis) and alignment information (y-axis) for all invested companies in the chosen sector. Dots positioned further to the right represent companies that have a larger share of low carbon technologies. Dots positioned further up indicate that companies have more ambitious build-out plans in low carbon technologies. The size of the dots represents the weight of the company in the portfolio._
+
+_Please note, for the corporate bond portfolio, the results are provided at credit parent level. This is because a single credit parent may be the obliger for the debt and could be associated with multiple companies._
+</p>
+</div>
+</details>
+
+
+
+### Company technology exposure
+
+TEXT
+
+<div id="stackedbars_key_drivers_equity" class="has_optbar donotremove">
+</div>
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_This chart shows the breakdown of each company’s production capacity in each sector by technology. This is compared to the portfolio, benchmarks and this portfolio if it were to be aligned with the selected scenario. Companies that have higher exposure to a technology than the portfolio drive the exposure of the portfolio to this technology up._
+
+_Please note, for the corporate bond portfolio, the results are provided at debt ticker level. This is because a single debt ticker could be associated with multiple companies._
+</p>
+</div>
+</details>
+
+
+## Interpreting the Results
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+

@@ -24,3 +24,18 @@ services:
     # command: ["bash"]
     environment:
       USERID: FAKEUSER
+  report_runner:
+    build:
+      context: report_runner
+    volumes:
+      - type: bind
+        source: mounts/processed_portfolios
+        target: /mnt/processed_portfolios
+      - type: bind
+        source: mounts/reports
+        target: /mnt/reports
+    # tty: true
+    # stdin_open: true
+    # command: ["bash"]
+    environment:
+      PORTFOLIO: 280f7115-b6a6-4d4b-8fad-40c485ca561e
