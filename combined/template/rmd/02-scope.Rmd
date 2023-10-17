@@ -1,0 +1,72 @@
+# Scope and Parameters of the Analysis 
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+
+## Asset Classes
+
+TEXT
+
+
+<div class="d3chart" style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto;" class="has_optbar donotduplicate donotremove">
+<div id="included_table" class="d3chart data_table" style="width: 600px"></div>
+</div>
+
+## Sector Coverage
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+<div id="value_pie_equity" class="has_optbar donotduplicate donotremove">
+</div>
+
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The pie chart shows the financial sector split of the total investment in the selected asset-class. The share that is invested in companies in climate-relevant sectors is represented by the colored slices._
+</p>
+</div>
+</details>
+
+## Absolute CO~2~ Emissions 
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+TEXT
+
+
+<div id="emissions_pie_equity" class="has_optbar donotduplicate donotremove">
+</div>
+
+<details>
+<summary> Understanding the Graph </summary>
+<div class="method">
+<p>
+_The pie chart shows sector split of the estimated total absolute emissions attributed to the investments in the selected asset-class. The emissions from companies in the PACTA sectors is represented by the colored sections._
+</p>
+</div>
+</details>

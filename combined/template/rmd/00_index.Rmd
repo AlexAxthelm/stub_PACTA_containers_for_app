@@ -1,0 +1,23 @@
+<font size="6"> STUB PACTA Climate Alignment Report </font> 
+
+<font size="3"> Portfolio ID: `r portfolio_id` </font> 
+
+<font size="3"> Contains `r portfolio_count` entries. </font> 
+
+```{r print_head, echo=FALSE, out.width='100%', fig.align="center"}
+portfolio_head
+```
+
+
+```{r echo=FALSE, out.width='100%', fig.align="center"}
+# knitr::include_graphics('/img/matterhorn-3019429_1920.jpg')
+```
+
+<details>
+<summary class="no-outline">
+**Legal disclaimer PACTA Interactive report.**
+</summary>
+
+** IMPORTANT LEGAL TEXT **
+
+</details>
